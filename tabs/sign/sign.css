@@ -1,0 +1,12 @@
+p
+{
+    color: rgb(2, 26, 48);
+    margin: 30;
+    font-size: 20;
+}
+
+.btn.btn-primary
+{
+    font-size: 20;
+    margin: 40;
+}
